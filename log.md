@@ -15,3 +15,10 @@ Portfolio Site started https://codepen.io/shrutikapoor08/pen/MJWXjV
 
 **Hours:** 2.5
 
+### Day 2: January 4 2017
+
+**Today's Progress**: Portfolio header done. 
+
+**Thoughts:** Imported picture from Twitter's profile. Setup header using Bootstrap grid and CSS. Tomorrow: pull content from instagram feed to populate instagram section. 
+
+**Hours:** 1
